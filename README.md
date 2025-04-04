@@ -1,1 +1,1 @@
-# Single-Phase-Full-Wave-Controlled-Rectifier
+# Single-Phase-Full-Wave-Uncontrolled-Rectifier
